@@ -182,15 +182,15 @@ Add your actual dashboard screenshots below to showcase the report visually.
 
 ### 📊 Sales Overview
 
-![E-Commerce Sales Overview](images/ecommerce-sales-overview.png)
+![E-Commerce Sales Overview](https://github.com/shaikhazim153/E-COMMERCE-DASHBOARD-END-TO-END-PROJECT/blob/main/Screenshot%202026-10-15%20000326.png)
 
 ### 💰 Profitability Analysis
 
-![E-Commerce Profitability Analysis](images/ecommerce-profitability-analysis.png)
+![E-Commerce Profitability Analysis](https://github.com/shaikhazim153/E-COMMERCE-DASHBOARD-END-TO-END-PROJECT/blob/main/Screenshot%202026-10-14%20235017.png)
 
 ### 🌍 Category & Regional Analysis
 
-![E-Commerce Category and Regional Analysis](images/ecommerce-category-regional-analysis.png)
+![E-Commerce Category and Regional Analysis](https://github.com/shaikhazim153/E-COMMERCE-DASHBOARD-END-TO-END-PROJECT/blob/main/Screenshot%202026-10-14%20234928.png)
 
 **Screenshot setup:** Create an `images` folder in your repository, upload your real Power BI dashboard screenshots, and use the exact filenames shown above—or update the Markdown paths to match your uploaded files.
 
